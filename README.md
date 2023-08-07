@@ -1,7 +1,7 @@
 # Power_BI
 # Practice
-![Screenshot (10)](https://github.com/Lucifermsta/Power_BI/assets/68470025/3ab7a229-6233-42bd-873a-8c0c5526d76d)
+![sales_page-0001](https://github.com/Lucifermsta/Power_BI/assets/68470025/6444ccf8-6a48-4468-ad2a-2931bec25af6)
 # Railfall
-![Screenshot (11)](https://github.com/Lucifermsta/Power_BI/assets/68470025/c7901203-417e-45cb-9be7-57c43680b95d)
+![rain_page-0001](https://github.com/Lucifermsta/Power_BI/assets/68470025/0bbfc960-f4fc-433b-b984-564e2a0e3b16)
 # Air-1
-![Screenshot (12)](https://github.com/Lucifermsta/Power_BI/assets/68470025/7f07b5f5-7a5d-4cfc-8551-bbbd8225c196)
+![Air_page-0001](https://github.com/Lucifermsta/Power_BI/assets/68470025/946a51b4-535c-4085-b15c-628e3efa3561)
